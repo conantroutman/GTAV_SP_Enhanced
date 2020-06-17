@@ -1711,7 +1711,7 @@
       <Name>LOWRIDERS_MODDED</Name>
       <Models>
         <Item>
-          <Name>buccaneer</Name>
+          <Name>buccaneer2</Name>
           <Variations type="CAmbientVehicleModelVariations">
             <BodyColour1 value="58" />
             <BodyColour2 value="49" />
@@ -1731,16 +1731,80 @@
                 <ModIndex value="0" />
               </Item>
               <Item>
+                <ModType>VMT_WING_R</ModType>
+                <ModIndex value="-1" />
+              </Item>
+              <Item>
+                <ModType>VMT_EXHAUST</ModType>
+                <ModIndex value="-1" />
+              </Item>
+              <Item>
+                <ModType>VMT_BONNET</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
                 <ModType>VMT_GRILL</ModType>
                 <ModIndex value="0" />
               </Item>
               <Item>
                 <ModType>VMT_ROOF</ModType>
-                <ModIndex value="0" />
+                <ModIndex value="2" />
               </Item>
               <Item>
-                <ModType>VMT_BONNET</ModType>
+                <ModType>VMT_LIVERY_MOD</ModType>
+                <ModIndex value="4" />
+              </Item>
+              <Item>
+                <ModType>VMT_CHASSIS5</ModType>
                 <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_ENGINEBAY1</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_ENGINEBAY2</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_HYDRO</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_INTERIOR1</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_INTERIOR4</ModType>
+                <ModIndex value="4" />
+              </Item>
+              <Item>
+                <ModType>VMT_ICE</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_TRUNK</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_STEERING</ModType>
+                <ModIndex value="5" />
+              </Item>
+              <Item>
+                <ModType>VMT_KNOB</ModType>
+                <ModIndex value="5" />
+              </Item>
+              <Item>
+                <ModType>VMT_PLAQUE</ModType>
+                <ModIndex value="7" />
+              </Item>
+              <Item>
+                <ModType>VMT_PLTVANITY</ModType>
+                <ModIndex value="12" />
+              </Item>
+              <Item>
+                <ModType>VMT_PLTHOLDER</ModType>
+                <ModIndex value="2" />
               </Item>
               <Item>
                 <ModType>VMT_WHEELS</ModType>
@@ -1748,7 +1812,7 @@
               </Item>
               <Item>
                 <ModType>VMT_SUSPENSION</ModType>
-                <ModIndex value="3" />
+                <ModIndex value="0" />
               </Item>
             </Mods>
             <Extra1>CantUse</Extra1>
