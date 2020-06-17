@@ -1285,6 +1285,31 @@
           <Variations type="NULL" />
           <Probability value="1.000000" />
         </Item>
+        <Item>
+          <Name>police4</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="0" />
+            <BodyColour2 value="0" />
+            <BodyColour3 value="0" />
+            <BodyColour4 value="-1" />
+            <WindowTint value="-1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods />
+            <Extra1>Either</Extra1>
+            <Extra2>Either</Extra2>
+            <Extra3>Either</Extra3>
+            <Extra4>Either</Extra4>
+            <Extra5>Either</Extra5>
+            <Extra6>Either</Extra6>
+            <Extra7>Either</Extra7>
+            <Extra8>Either</Extra8>
+            <Extra9>Either</Extra9>
+            <Extra10>Either</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
       </Models>
     </Item>
     <Item type="CAmbientModelSet">
