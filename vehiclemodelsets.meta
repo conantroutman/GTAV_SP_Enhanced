@@ -1829,27 +1829,19 @@
           <Probability value="1.000000" />
         </Item>
         <Item>
-          <Name>MANANA</Name>
+          <Name>moonbeam2</Name>
           <Variations type="CAmbientVehicleModelVariations">
-            <BodyColour1 value="72" />
-            <BodyColour2 value="72" />
-            <BodyColour3 value="135" />
-            <BodyColour4 value="109" />
+            <BodyColour1 value="34" />
+            <BodyColour2 value="34" />
+            <BodyColour3 value="38" />
+            <BodyColour4 value="120" />
             <WindowTint value="1" />
             <ColourCombination value="-1" />
             <Livery value="-1" />
             <ModKit value="0" />
             <Mods>
               <Item>
-                <ModType>VMT_BUMPER_F</ModType>
-                <ModIndex value="2" />
-              </Item>
-              <Item>
-                <ModType>VMT_BUMPER_R</ModType>
-                <ModIndex value="0" />
-              </Item>
-              <Item>
-                <ModType>VMT_WING_L</ModType>
+                <ModType>VMT_EXHAUST</ModType>
                 <ModIndex value="0" />
               </Item>
               <Item>
@@ -1857,20 +1849,80 @@
                 <ModIndex value="0" />
               </Item>
               <Item>
-                <ModType>VMT_CHASSIS</ModType>
-                <ModIndex value="1" />
-              </Item>
-              <Item>
-                <ModType>VMT_EXHAUST</ModType>
+                <ModType>VMT_SPOILER</ModType>
                 <ModIndex value="0" />
               </Item>
               <Item>
-                <ModType>VMT_WHEELS</ModType>
+                <ModType>VMT_CHASSIS</ModType>
+                <ModIndex value="0" />
+              </Item>
+              <Item>
+                <ModType>VMT_ROOF</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_LIVERY_MOD</ModType>
                 <ModIndex value="4" />
               </Item>
               <Item>
-                <ModType>VMT_SUSPENSION</ModType>
+                <ModType>VMT_ENGINEBAY1</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_ENGINEBAY2</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_HYDRO</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_INTERIOR1</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_INTERIOR4</ModType>
+                <ModIndex value="8" />
+              </Item>
+              <Item>
+                <ModType>VMT_INTERIOR5</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_SEATS</ModType>
+                <ModIndex value="0" />
+              </Item>
+              <Item>
+                <ModType>VMT_TRUNK</ModType>
+                <ModIndex value="4" />
+              </Item>
+              <Item>
+                <ModType>VMT_STEERING</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_KNOB</ModType>
+                <ModIndex value="8" />
+              </Item>
+              <Item>
+                <ModType>VMT_PLAQUE</ModType>
+                <ModIndex value="19" />
+              </Item>
+              <Item>
+                <ModType>VMT_PLTVANITY</ModType>
+                <ModIndex value="8" />
+              </Item>
+              <Item>
+                <ModType>VMT_PLTHOLDER</ModType>
                 <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_WHEELS</ModType>
+                <ModIndex value="12" />
+              </Item>
+              <Item>
+                <ModType>VMT_SUSPENSION</ModType>
+                <ModIndex value="0" />
               </Item>
             </Mods>
             <Extra1>CantUse</Extra1>
