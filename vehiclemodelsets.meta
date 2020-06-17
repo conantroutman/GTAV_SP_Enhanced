@@ -1695,6 +1695,16 @@
           <Variations type="NULL" />
           <Probability value="1.000000" />
         </Item>
+        <Item>
+          <Name>hermes</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>hustler</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
       </Models>
     </Item>
     <Item type="CAmbientModelSet">
