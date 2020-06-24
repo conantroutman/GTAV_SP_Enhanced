@@ -16848,18 +16848,18 @@
         <Item>
           <Name>michelli</Name>
           <Variations type="CAmbientVehicleModelVariations">
-            <BodyColour1 value="28" />
-            <BodyColour2 value="38" />
-            <BodyColour3 value="42" />
-            <BodyColour4 value="99" />
-            <WindowTint value="-1" />
+            <BodyColour1 value="30" />
+            <BodyColour2 value="30" />
+            <BodyColour3 value="27" />
+            <BodyColour4 value="4" />
+            <WindowTint value="0" />
             <ColourCombination value="-1" />
             <Livery value="-1" />
             <ModKit value="0" />
             <Mods>
               <Item>
                 <ModType>VMT_BUMPER_F</ModType>
-                <ModIndex value="2" />
+                <ModIndex value="5" />
               </Item>
               <Item>
                 <ModType>VMT_BUMPER_R</ModType>
@@ -16867,30 +16867,18 @@
               </Item>
               <Item>
                 <ModType>VMT_WING_L</ModType>
-                <ModIndex value="2" />
+                <ModIndex value="0" />
               </Item>
               <Item>
                 <ModType>VMT_EXHAUST</ModType>
-                <ModIndex value="4" />
-              </Item>
-              <Item>
-                <ModType>VMT_WHEELS</ModType>
-                <ModIndex value="5" />
-              </Item>
-              <Item>
-                <ModType>VMT_SUSPENSION</ModType>
-                <ModIndex value="0" />
+                <ModIndex value="2" />
               </Item>
               <Item>
                 <ModType>VMT_BONNET</ModType>
-                <ModIndex value="0" />
+                <ModIndex value="-1" />
               </Item>
               <Item>
                 <ModType>VMT_SPOILER</ModType>
-                <ModIndex value="3" />
-              </Item>
-              <Item>
-                <ModType>VMT_SKIRT</ModType>
                 <ModIndex value="0" />
               </Item>
               <Item>
@@ -16898,8 +16886,12 @@
                 <ModIndex value="0" />
               </Item>
               <Item>
+                <ModType>VMT_SKIRT</ModType>
+                <ModIndex value="0" />
+              </Item>
+              <Item>
                 <ModType>VMT_CHASSIS</ModType>
-                <ModIndex value="1" />
+                <ModIndex value="0" />
               </Item>
               <Item>
                 <ModType>VMT_ROOF</ModType>
@@ -16907,7 +16899,15 @@
               </Item>
               <Item>
                 <ModType>VMT_LIVERY_MOD</ModType>
-                <ModIndex value="1" />
+                <ModIndex value="-1" />
+              </Item>
+              <Item>
+                <ModType>VMT_WHEELS</ModType>
+                <ModIndex value="4" />
+              </Item>
+              <Item>
+                <ModType>VMT_SUSPENSION</ModType>
+                <ModIndex value="0" />
               </Item>
             </Mods>
             <Extra1>CantUse</Extra1>
@@ -18499,18 +18499,18 @@
         <Item>
           <Name>michelli</Name>
           <Variations type="CAmbientVehicleModelVariations">
-            <BodyColour1 value="120" />
-            <BodyColour2 value="120" />
-            <BodyColour3 value="120" />
-            <BodyColour4 value="70" />
-            <WindowTint value="-1" />
+            <BodyColour1 value="117" />
+            <BodyColour2 value="117" />
+            <BodyColour3 value="24" />
+            <BodyColour4 value="1" />
+            <WindowTint value="0" />
             <ColourCombination value="-1" />
             <Livery value="-1" />
             <ModKit value="0" />
             <Mods>
               <Item>
                 <ModType>VMT_BUMPER_F</ModType>
-                <ModIndex value="4" />
+                <ModIndex value="3" />
               </Item>
               <Item>
                 <ModType>VMT_BUMPER_R</ModType>
@@ -18518,39 +18518,31 @@
               </Item>
               <Item>
                 <ModType>VMT_WING_L</ModType>
-                <ModIndex value="1" />
+                <ModIndex value="2" />
               </Item>
               <Item>
                 <ModType>VMT_EXHAUST</ModType>
                 <ModIndex value="5" />
               </Item>
               <Item>
-                <ModType>VMT_WHEELS</ModType>
-                <ModIndex value="11" />
-              </Item>
-              <Item>
-                <ModType>VMT_SUSPENSION</ModType>
-                <ModIndex value="0" />
-              </Item>
-              <Item>
                 <ModType>VMT_BONNET</ModType>
-                <ModIndex value="-1" />
+                <ModIndex value="0" />
               </Item>
               <Item>
                 <ModType>VMT_SPOILER</ModType>
-                <ModIndex value="1" />
-              </Item>
-              <Item>
-                <ModType>VMT_SKIRT</ModType>
-                <ModIndex value="0" />
-              </Item>
-              <Item>
-                <ModType>VMT_GRILL</ModType>
                 <ModIndex value="3" />
               </Item>
               <Item>
-                <ModType>VMT_CHASSIS</ModType>
+                <ModType>VMT_GRILL</ModType>
                 <ModIndex value="0" />
+              </Item>
+              <Item>
+                <ModType>VMT_SKIRT</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_CHASSIS</ModType>
+                <ModIndex value="1" />
               </Item>
               <Item>
                 <ModType>VMT_ROOF</ModType>
@@ -18558,6 +18550,14 @@
               </Item>
               <Item>
                 <ModType>VMT_LIVERY_MOD</ModType>
+                <ModIndex value="-1" />
+              </Item>
+              <Item>
+                <ModType>VMT_WHEELS</ModType>
+                <ModIndex value="12" />
+              </Item>
+              <Item>
+                <ModType>VMT_SUSPENSION</ModType>
                 <ModIndex value="0" />
               </Item>
             </Mods>
@@ -24472,18 +24472,18 @@
         <Item>
           <Name>michelli</Name>
           <Variations type="CAmbientVehicleModelVariations">
-            <BodyColour1 value="28" />
-            <BodyColour2 value="38" />
-            <BodyColour3 value="42" />
-            <BodyColour4 value="99" />
-            <WindowTint value="-1" />
+            <BodyColour1 value="30" />
+            <BodyColour2 value="30" />
+            <BodyColour3 value="27" />
+            <BodyColour4 value="4" />
+            <WindowTint value="0" />
             <ColourCombination value="-1" />
             <Livery value="-1" />
             <ModKit value="0" />
             <Mods>
               <Item>
                 <ModType>VMT_BUMPER_F</ModType>
-                <ModIndex value="2" />
+                <ModIndex value="5" />
               </Item>
               <Item>
                 <ModType>VMT_BUMPER_R</ModType>
@@ -24491,30 +24491,18 @@
               </Item>
               <Item>
                 <ModType>VMT_WING_L</ModType>
-                <ModIndex value="2" />
+                <ModIndex value="0" />
               </Item>
               <Item>
                 <ModType>VMT_EXHAUST</ModType>
-                <ModIndex value="4" />
-              </Item>
-              <Item>
-                <ModType>VMT_WHEELS</ModType>
-                <ModIndex value="5" />
-              </Item>
-              <Item>
-                <ModType>VMT_SUSPENSION</ModType>
-                <ModIndex value="0" />
+                <ModIndex value="2" />
               </Item>
               <Item>
                 <ModType>VMT_BONNET</ModType>
-                <ModIndex value="0" />
+                <ModIndex value="-1" />
               </Item>
               <Item>
                 <ModType>VMT_SPOILER</ModType>
-                <ModIndex value="3" />
-              </Item>
-              <Item>
-                <ModType>VMT_SKIRT</ModType>
                 <ModIndex value="0" />
               </Item>
               <Item>
@@ -24522,8 +24510,12 @@
                 <ModIndex value="0" />
               </Item>
               <Item>
+                <ModType>VMT_SKIRT</ModType>
+                <ModIndex value="0" />
+              </Item>
+              <Item>
                 <ModType>VMT_CHASSIS</ModType>
-                <ModIndex value="1" />
+                <ModIndex value="0" />
               </Item>
               <Item>
                 <ModType>VMT_ROOF</ModType>
@@ -24531,7 +24523,15 @@
               </Item>
               <Item>
                 <ModType>VMT_LIVERY_MOD</ModType>
-                <ModIndex value="1" />
+                <ModIndex value="-1" />
+              </Item>
+              <Item>
+                <ModType>VMT_WHEELS</ModType>
+                <ModIndex value="4" />
+              </Item>
+              <Item>
+                <ModType>VMT_SUSPENSION</ModType>
+                <ModIndex value="0" />
               </Item>
             </Mods>
             <Extra1>CantUse</Extra1>
@@ -25482,18 +25482,18 @@
         <Item>
           <Name>michelli</Name>
           <Variations type="CAmbientVehicleModelVariations">
-            <BodyColour1 value="120" />
-            <BodyColour2 value="120" />
-            <BodyColour3 value="120" />
-            <BodyColour4 value="70" />
-            <WindowTint value="-1" />
+            <BodyColour1 value="117" />
+            <BodyColour2 value="117" />
+            <BodyColour3 value="24" />
+            <BodyColour4 value="1" />
+            <WindowTint value="0" />
             <ColourCombination value="-1" />
             <Livery value="-1" />
             <ModKit value="0" />
             <Mods>
               <Item>
                 <ModType>VMT_BUMPER_F</ModType>
-                <ModIndex value="4" />
+                <ModIndex value="3" />
               </Item>
               <Item>
                 <ModType>VMT_BUMPER_R</ModType>
@@ -25501,39 +25501,31 @@
               </Item>
               <Item>
                 <ModType>VMT_WING_L</ModType>
-                <ModIndex value="1" />
+                <ModIndex value="2" />
               </Item>
               <Item>
                 <ModType>VMT_EXHAUST</ModType>
                 <ModIndex value="5" />
               </Item>
               <Item>
-                <ModType>VMT_WHEELS</ModType>
-                <ModIndex value="11" />
-              </Item>
-              <Item>
-                <ModType>VMT_SUSPENSION</ModType>
-                <ModIndex value="0" />
-              </Item>
-              <Item>
                 <ModType>VMT_BONNET</ModType>
-                <ModIndex value="-1" />
+                <ModIndex value="0" />
               </Item>
               <Item>
                 <ModType>VMT_SPOILER</ModType>
-                <ModIndex value="1" />
-              </Item>
-              <Item>
-                <ModType>VMT_SKIRT</ModType>
-                <ModIndex value="0" />
-              </Item>
-              <Item>
-                <ModType>VMT_GRILL</ModType>
                 <ModIndex value="3" />
               </Item>
               <Item>
-                <ModType>VMT_CHASSIS</ModType>
+                <ModType>VMT_GRILL</ModType>
                 <ModIndex value="0" />
+              </Item>
+              <Item>
+                <ModType>VMT_SKIRT</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_CHASSIS</ModType>
+                <ModIndex value="1" />
               </Item>
               <Item>
                 <ModType>VMT_ROOF</ModType>
@@ -25541,6 +25533,14 @@
               </Item>
               <Item>
                 <ModType>VMT_LIVERY_MOD</ModType>
+                <ModIndex value="-1" />
+              </Item>
+              <Item>
+                <ModType>VMT_WHEELS</ModType>
+                <ModIndex value="12" />
+              </Item>
+              <Item>
+                <ModType>VMT_SUSPENSION</ModType>
                 <ModIndex value="0" />
               </Item>
             </Mods>
