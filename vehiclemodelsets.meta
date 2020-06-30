@@ -15520,6 +15520,72 @@
           </Variations>
           <Probability value="1.000000" />
         </Item>
+        <Item>
+          <Name>taipan</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="102" />
+            <BodyColour2 value="3" />
+            <BodyColour3 value="99" />
+            <BodyColour4 value="2" />
+            <WindowTint value="1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                <ModType>VMT_BUMPER_F</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_BUMPER_R</ModType>
+                <ModIndex value="0" />
+              </Item>
+              <Item>
+                <ModType>VMT_WING_L</ModType>
+                <ModIndex value="-1" />
+              </Item>
+              <Item>
+                <ModType>VMT_EXHAUST</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_BONNET</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_SPOILER</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_SKIRT</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_ROOF</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_WHEELS</ModType>
+                <ModIndex value="4" />
+              </Item>
+              <Item>
+                <ModType>VMT_SUSPENSION</ModType>
+                <ModIndex value="0" />
+              </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
       </Models>
     </Item>
     <Item type="CAmbientModelSet">
@@ -16569,6 +16635,72 @@
               <Item>
                 <ModType>VMT_WHEELS</ModType>
                 <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_SUSPENSION</ModType>
+                <ModIndex value="0" />
+              </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>taipan</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="89" />
+            <BodyColour2 value="0" />
+            <BodyColour3 value="1" />
+            <BodyColour4 value="0" />
+            <WindowTint value="1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                <ModType>VMT_BUMPER_F</ModType>
+                <ModIndex value="0" />
+              </Item>
+              <Item>
+                <ModType>VMT_BUMPER_R</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_WING_L</ModType>
+                <ModIndex value="0" />
+              </Item>
+              <Item>
+                <ModType>VMT_EXHAUST</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_BONNET</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_SPOILER</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_SKIRT</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_ROOF</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_WHEELS</ModType>
+                <ModIndex value="10" />
               </Item>
               <Item>
                 <ModType>VMT_SUSPENSION</ModType>
@@ -31980,6 +32112,138 @@
               <Item>
                 <ModType>VMT_WHEELS</ModType>
                 <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_SUSPENSION</ModType>
+                <ModIndex value="0" />
+              </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>taipan</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="102" />
+            <BodyColour2 value="3" />
+            <BodyColour3 value="99" />
+            <BodyColour4 value="2" />
+            <WindowTint value="1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                <ModType>VMT_BUMPER_F</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_BUMPER_R</ModType>
+                <ModIndex value="0" />
+              </Item>
+              <Item>
+                <ModType>VMT_WING_L</ModType>
+                <ModIndex value="-1" />
+              </Item>
+              <Item>
+                <ModType>VMT_EXHAUST</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_BONNET</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_SPOILER</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_SKIRT</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_ROOF</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_WHEELS</ModType>
+                <ModIndex value="4" />
+              </Item>
+              <Item>
+                <ModType>VMT_SUSPENSION</ModType>
+                <ModIndex value="0" />
+              </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>taipan</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="89" />
+            <BodyColour2 value="0" />
+            <BodyColour3 value="1" />
+            <BodyColour4 value="0" />
+            <WindowTint value="1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                <ModType>VMT_BUMPER_F</ModType>
+                <ModIndex value="0" />
+              </Item>
+              <Item>
+                <ModType>VMT_BUMPER_R</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_WING_L</ModType>
+                <ModIndex value="0" />
+              </Item>
+              <Item>
+                <ModType>VMT_EXHAUST</ModType>
+                <ModIndex value="2" />
+              </Item>
+              <Item>
+                <ModType>VMT_BONNET</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_SPOILER</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_SKIRT</ModType>
+                <ModIndex value="1" />
+              </Item>
+              <Item>
+                <ModType>VMT_ROOF</ModType>
+                <ModIndex value="3" />
+              </Item>
+              <Item>
+                <ModType>VMT_WHEELS</ModType>
+                <ModIndex value="10" />
               </Item>
               <Item>
                 <ModType>VMT_SUSPENSION</ModType>
