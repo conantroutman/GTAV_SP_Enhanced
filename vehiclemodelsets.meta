@@ -15809,10 +15809,10 @@
         <Item>
           <Name>reaper</Name>
           <Variations type="CAmbientVehicleModelVariations">
-            <BodyColour1 value="91" />
-            <BodyColour2 value="91" />
-            <BodyColour3 value="91" />
-            <BodyColour4 value="0" />
+            <BodyColour1 value="35" />
+            <BodyColour2 value="0" />
+            <BodyColour3 value="0" />
+            <BodyColour4 value="156" />
             <WindowTint value="-1" />
             <ColourCombination value="-1" />
             <Livery value="-1" />
@@ -17013,10 +17013,10 @@
         <Item>
           <Name>reaper</Name>
           <Variations type="CAmbientVehicleModelVariations">
-            <BodyColour1 value="2" />
-            <BodyColour2 value="2" />
-            <BodyColour3 value="0" />
-            <BodyColour4 value="27" />
+            <BodyColour1 value="147" />
+            <BodyColour2 value="147" />
+            <BodyColour3 value="4" />
+            <BodyColour4 value="156" />
             <WindowTint value="-1" />
             <ColourCombination value="-1" />
             <Livery value="-1" />
@@ -31701,10 +31701,10 @@
         <Item>
           <Name>reaper</Name>
           <Variations type="CAmbientVehicleModelVariations">
-            <BodyColour1 value="91" />
-            <BodyColour2 value="91" />
-            <BodyColour3 value="91" />
-            <BodyColour4 value="0" />
+            <BodyColour1 value="35" />
+            <BodyColour2 value="0" />
+            <BodyColour3 value="0" />
+            <BodyColour4 value="156" />
             <WindowTint value="-1" />
             <ColourCombination value="-1" />
             <Livery value="-1" />
@@ -31779,10 +31779,10 @@
         <Item>
           <Name>reaper</Name>
           <Variations type="CAmbientVehicleModelVariations">
-            <BodyColour1 value="2" />
-            <BodyColour2 value="2" />
-            <BodyColour3 value="0" />
-            <BodyColour4 value="27" />
+            <BodyColour1 value="147" />
+            <BodyColour2 value="147" />
+            <BodyColour3 value="4" />
+            <BodyColour4 value="156" />
             <WindowTint value="-1" />
             <ColourCombination value="-1" />
             <Livery value="-1" />
