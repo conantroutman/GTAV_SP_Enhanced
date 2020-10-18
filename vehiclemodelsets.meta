@@ -8276,7 +8276,8 @@
           </Variations>
           <Probability value="1.000000" />
         </Item>
-                <Name>vagner</Name>
+        <Item>
+          <Name>vagner</Name>
           <Variations type="CAmbientVehicleModelVariations">
             <BodyColour1 value="158" />
             <BodyColour2 value="158" />
