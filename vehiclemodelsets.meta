@@ -5618,7 +5618,7 @@
               </Item>
               <Item>
                 <ModType>VMT_SUSPENSION</ModType>
-                <ModIndex value="0" />
+                <ModIndex value="2" />
               </Item>
             </Mods>
             <Extra1>CantUse</Extra1>
@@ -5692,7 +5692,7 @@
               </Item>
               <Item>
                 <ModType>VMT_SUSPENSION</ModType>
-                <ModIndex value="0" />
+                <ModIndex value="2" />
               </Item>
             </Mods>
             <Extra1>CantUse</Extra1>
@@ -11370,7 +11370,7 @@
               </Item>
               <Item>
                 <ModType>VMT_SPOILER</ModType>
-                <ModIndex value="-1" />
+                <ModIndex value="1" />
               </Item>
               <Item>
                 <ModType>VMT_CHASSIS</ModType>
@@ -19007,7 +19007,7 @@
               </Item>
               <Item>
                 <ModType>VMT_SPOILER</ModType>
-                <ModIndex value="-1" />
+                <ModIndex value="1" />
               </Item>
               <Item>
                 <ModType>VMT_CHASSIS</ModType>
@@ -19965,7 +19965,7 @@
               </Item>
               <Item>
                 <ModType>VMT_SUSPENSION</ModType>
-                <ModIndex value="0" />
+                <ModIndex value="2" />
               </Item>
             </Mods>
             <Extra1>CantUse</Extra1>
@@ -20039,7 +20039,7 @@
               </Item>
               <Item>
                 <ModType>VMT_SUSPENSION</ModType>
-                <ModIndex value="0" />
+                <ModIndex value="2" />
               </Item>
             </Mods>
             <Extra1>CantUse</Extra1>
