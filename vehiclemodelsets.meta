@@ -260,6 +260,221 @@
           <Variations type="NULL" />
           <Probability value="1.000000" />
         </Item>
+        <Item>
+          <Name>BLIMP2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>BLIMP3</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="-1" />
+            <BodyColour2 value="-1" />
+            <BodyColour3 value="-1" />
+            <BodyColour4 value="-1" />
+            <WindowTint value="-1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                <ModType>VMT_LIVERY_MOD</ModType>
+                <ModIndex value="0" />
+              </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>BLIMP3</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="-1" />
+            <BodyColour2 value="-1" />
+            <BodyColour3 value="-1" />
+            <BodyColour4 value="-1" />
+            <WindowTint value="-1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                <ModType>VMT_LIVERY_MOD</ModType>
+                <ModIndex value="1" />
+              </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>BLIMP3</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="-1" />
+            <BodyColour2 value="-1" />
+            <BodyColour3 value="-1" />
+            <BodyColour4 value="-1" />
+            <WindowTint value="-1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                <ModType>VMT_LIVERY_MOD</ModType>
+                <ModIndex value="2" />
+              </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>BLIMP3</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="-1" />
+            <BodyColour2 value="-1" />
+            <BodyColour3 value="-1" />
+            <BodyColour4 value="-1" />
+            <WindowTint value="-1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                <ModType>VMT_LIVERY_MOD</ModType>
+                <ModIndex value="3" />
+              </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>BLIMP3</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="-1" />
+            <BodyColour2 value="-1" />
+            <BodyColour3 value="-1" />
+            <BodyColour4 value="-1" />
+            <WindowTint value="-1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                <ModType>VMT_LIVERY_MOD</ModType>
+                <ModIndex value="4" />
+              </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>BLIMP3</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="-1" />
+            <BodyColour2 value="-1" />
+            <BodyColour3 value="-1" />
+            <BodyColour4 value="-1" />
+            <WindowTint value="-1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                <ModType>VMT_LIVERY_MOD</ModType>
+                <ModIndex value="5" />
+              </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>BLIMP3</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="-1" />
+            <BodyColour2 value="-1" />
+            <BodyColour3 value="-1" />
+            <BodyColour4 value="-1" />
+            <WindowTint value="-1" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                <ModType>VMT_LIVERY_MOD</ModType>
+                <ModIndex value="6" />
+              </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
       </Models>
     </Item>
     <Item type="CAmbientModelSet">
