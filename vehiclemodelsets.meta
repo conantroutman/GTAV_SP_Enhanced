@@ -7732,6 +7732,582 @@
           </Variations>
           <Probability value="1.000000" />
         </Item>
+        <Item>
+          <Name>italigto</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="88" />
+            <BodyColour2 value="50" />
+            <BodyColour3 value="91" />
+            <BodyColour4 value="37" />
+            <WindowTint value="0" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                  <ModType>VMT_BUMPER_F</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BUMPER_R</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WING_L</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_EXHAUST</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BONNET</ModType>
+                  <ModIndex value="3" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SPOILER</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SKIRT</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_GRILL</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_ROOF</ModType>
+                  <ModIndex value="4" />
+                </Item>
+                <Item>
+                  <ModType>VMT_CHASSIS</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_LIVERY_MOD</ModType>
+                  <ModIndex value="-1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WHEELS</ModType>
+                  <ModIndex value="6" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SUSPENSION</ModType>
+                  <ModIndex value="0" />
+                </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>italigto</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="28" />
+            <BodyColour2 value="111" />
+            <BodyColour3 value="31" />
+            <BodyColour4 value="111" />
+            <WindowTint value="0" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                  <ModType>VMT_BUMPER_F</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BUMPER_R</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WING_L</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_EXHAUST</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BONNET</ModType>
+                  <ModIndex value="6" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SPOILER</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SKIRT</ModType>
+                  <ModIndex value="4" />
+                </Item>
+                <Item>
+                  <ModType>VMT_GRILL</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_ROOF</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_CHASSIS</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_LIVERY_MOD</ModType>
+                  <ModIndex value="-1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WHEELS</ModType>
+                  <ModIndex value="16" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SUSPENSION</ModType>
+                  <ModIndex value="0" />
+                </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>jugular</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="71" />
+            <BodyColour2 value="3" />
+            <BodyColour3 value="145" />
+            <BodyColour4 value="0" />
+            <WindowTint value="0" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                  <ModType>VMT_BUMPER_F</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BUMPER_R</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WING_L</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_EXHAUST</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BONNET</ModType>
+                  <ModIndex value="5" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SPOILER</ModType>
+                  <ModIndex value="6" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SKIRT</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_GRILL</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_ROOF</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_LIVERY_MOD</ModType>
+                  <ModIndex value="-1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WHEELS</ModType>
+                  <ModIndex value="5" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SUSPENSION</ModType>
+                  <ModIndex value="0" />
+                </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>jugular</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="50" />
+            <BodyColour2 value="0" />
+            <BodyColour3 value="53" />
+            <BodyColour4 value="92" />
+            <WindowTint value="0" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                  <ModType>VMT_BUMPER_F</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BUMPER_R</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WING_L</ModType>
+                  <ModIndex value="-1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_EXHAUST</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BONNET</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SPOILER</ModType>
+                  <ModIndex value="4" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SKIRT</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_GRILL</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_ROOF</ModType>
+                  <ModIndex value="-1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_LIVERY_MOD</ModType>
+                  <ModIndex value="-1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WHEELS</ModType>
+                  <ModIndex value="17" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SUSPENSION</ModType>
+                  <ModIndex value="0" />
+                </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>schlagengt</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="27" />
+            <BodyColour2 value="0" />
+            <BodyColour3 value="35" />
+            <BodyColour4 value="37" />
+            <WindowTint value="0" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                  <ModType>VMT_BUMPER_F</ModType>
+                  <ModIndex value="3" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BUMPER_R</ModType>
+                  <ModIndex value="3" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WING_L</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WING_R</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_EXHAUST</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BONNET</ModType>
+                  <ModIndex value="3" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SPOILER</ModType>
+                  <ModIndex value="4" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SKIRT</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_GRILL</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_ROOF</ModType>
+                  <ModIndex value="4" />
+                </Item>
+                <Item>
+                  <ModType>VMT_CHASSIS</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_LIVERY_MOD</ModType>
+                  <ModIndex value="-1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WHEELS</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SUSPENSION</ModType>
+                  <ModIndex value="0" />
+                </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>schlagengt</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="125" />
+            <BodyColour2 value="125" />
+            <BodyColour3 value="91" />
+            <BodyColour4 value="111" />
+            <WindowTint value="0" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                  <ModType>VMT_BUMPER_F</ModType>
+                  <ModIndex value="6" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BUMPER_R</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WING_L</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WING_R</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_EXHAUST</ModType>
+                  <ModIndex value="3" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BONNET</ModType>
+                  <ModIndex value="8" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SPOILER</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SKIRT</ModType>
+                  <ModIndex value="3" />
+                </Item>
+                <Item>
+                  <ModType>VMT_GRILL</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_ROOF</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_CHASSIS</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_LIVERY_MOD</ModType>
+                  <ModIndex value="-1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WHEELS</ModType>
+                  <ModIndex value="10" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SUSPENSION</ModType>
+                  <ModIndex value="0" />
+                </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>krieger</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="0" />
+            <BodyColour2 value="92" />
+            <BodyColour3 value="1" />
+            <BodyColour4 value="92" />
+            <WindowTint value="0" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                  <ModType>VMT_EXHAUST</ModType>
+                  <ModIndex value="2" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BONNET</ModType>
+                  <ModIndex value="3" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SPOILER</ModType>
+                  <ModIndex value="1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SKIRT</ModType>
+                  <ModIndex value="-1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_LIVERY_MOD</ModType>
+                  <ModIndex value="-1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WHEELS</ModType>
+                  <ModIndex value="5" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SUSPENSION</ModType>
+                  <ModIndex value="0" />
+                </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>krieger</Name>
+          <Variations type="CAmbientVehicleModelVariations">
+            <BodyColour1 value="120" />
+            <BodyColour2 value="120" />
+            <BodyColour3 value="120" />
+            <BodyColour4 value="38" />
+            <WindowTint value="0" />
+            <ColourCombination value="-1" />
+            <Livery value="-1" />
+            <ModKit value="0" />
+            <Mods>
+              <Item>
+                  <ModType>VMT_EXHAUST</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_BONNET</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SPOILER</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SKIRT</ModType>
+                  <ModIndex value="0" />
+                </Item>
+                <Item>
+                  <ModType>VMT_LIVERY_MOD</ModType>
+                  <ModIndex value="-1" />
+                </Item>
+                <Item>
+                  <ModType>VMT_WHEELS</ModType>
+                  <ModIndex value="4" />
+                </Item>
+                <Item>
+                  <ModType>VMT_SUSPENSION</ModType>
+                  <ModIndex value="0" />
+                </Item>
+            </Mods>
+            <Extra1>CantUse</Extra1>
+            <Extra2>CantUse</Extra2>
+            <Extra3>CantUse</Extra3>
+            <Extra4>CantUse</Extra4>
+            <Extra5>CantUse</Extra5>
+            <Extra6>CantUse</Extra6>
+            <Extra7>CantUse</Extra7>
+            <Extra8>CantUse</Extra8>
+            <Extra9>CantUse</Extra9>
+            <Extra10>CantUse</Extra10>
+          </Variations>
+          <Probability value="1.000000" />
+        </Item>
       </Models>
     </Item>
     <Item type="CAmbientModelSet">
