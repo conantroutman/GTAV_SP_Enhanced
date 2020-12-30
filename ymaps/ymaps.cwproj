@@ -1,0 +1,35 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>apc.ymap</Item>
+    <Item>merryweather.ymap</Item>
+    <Item>rcv.ymap</Item>
+    <Item>altruist.ymap</Item>
+    <Item>paletoammunation.ymap</Item>
+    <Item>desertscrapyard.ymap</Item>
+    <Item>military.ymap</Item>
+    <Item>lscustoms.ymap</Item>
+    <Item>port.ymap</Item>
+    <Item>vinewoodhills.ymap</Item>
+    <Item>lostmc.ymap</Item>
+    <Item>lostmcvinewood.ymap</Item>
+    <Item>cartelranch.ymap</Item>
+    <Item>abandonedmine.ymap</Item>
+    <Item>smallisland.ymap</Item>
+    <Item>playboy.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames>
+    <Item>east_los_santos.ymt</Item>
+    <Item>vinewoodhills_east.ymt</Item>
+    <Item>grapeseed.ymt</Item>
+    <Item>countryside_ne.ymt</Item>
+    <Item>slab_city.ymt</Item>
+  </ScenarioFilenames>
+  <AudioRelFilenames />
+</CodeWalkerProject>
